@@ -37,7 +37,6 @@ The main purpose of this analysis is to assess the sales and financial performan
 - **New Products Launched in 2021**
 - **Top 5 Countries/Marketplaces by Sales in 2021**
 - **Profit and Loss (P&L) Reports by Fiscal Years**
-- **P&L Reports by Countries/Markets for 2021**
 - **P&L Reports by Month**
 
 ## **Methods Employed**
